@@ -1,0 +1,23 @@
+.sec-heading{
+    font-size: 40px;
+    padding-bottom: 6vh;
+}
+.sec-desc{
+    font-size: 22px;
+    padding-bottom: 6vh;
+}
+section{
+ display: flex;
+    padding-left: 4vh;
+}
+
+
+ section a{
+    background-color: #0F79AF;
+    color: white;
+    padding: 12px 36px;
+    border-radius: 5px;
+    margin-top: 50px;
+    font-weight: bold;
+
+}
