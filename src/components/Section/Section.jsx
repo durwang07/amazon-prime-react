@@ -18,6 +18,10 @@ const Section = (props) => {
         <div className="sec-right">
           <img src={props.img} alt="" />
         </div>
+        <div className='white-sec'>
+              <div className='sec-1'></div>
+              <div className='sec-2'></div>
+        </div>
     </section>
   )
 }

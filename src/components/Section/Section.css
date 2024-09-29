@@ -21,3 +21,9 @@ section{
     font-weight: bold;
 
 }
+
+.white-sec{
+    display: flex;
+    background-color: white;
+   
+}
